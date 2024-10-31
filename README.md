@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning Software development and AI/ML<br>🎯 Goals: Passionate to move into software Egineering<br>🎲 Fun fact: Catch me, if you can</p>
+<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning Software development and AI/ML<br>🎯 Goals: Passionate to move into software Egineering<br>🎲 Fun fact: I Know what you are thinking</p>
 
 ###
 
